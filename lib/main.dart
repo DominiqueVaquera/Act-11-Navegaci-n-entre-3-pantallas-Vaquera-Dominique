@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/widgets/pagina1.dart';
-import 'package:myapp/widgets/pagina2.dart';
-import 'package:myapp/widgets/pagina3.dart';
 
 void main() {
   runApp(const MiAppNavegacion());
