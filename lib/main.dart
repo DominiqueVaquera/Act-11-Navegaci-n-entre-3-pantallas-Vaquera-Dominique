@@ -20,8 +20,6 @@ class MiAppNavegacion extends StatelessWidget {
       // Mapa de rutas: aquí registramos nuestras páginas
       routes: {
         '/': (context) => const PaginaUno(),
-        '/segunda': (context) => const PaginaDos(),
-        '/tercera': (context) => const PaginaTres(),
       },
     );
   }
